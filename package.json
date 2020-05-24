@@ -2,7 +2,7 @@
   "name": "@suhayb/ckeditor-build-custom-upload",
   "author": "suhayb",
   "description": "A custom CKEditor 5 build incoperates simple-upload plugin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
   "devDependencies": {
