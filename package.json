@@ -5,6 +5,11 @@
   "version": "1.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": false,
+  "main": "./build/ckeditor.js",
+  "repository": {"type": "git","url": "git+https://github.com/ksuhiyp/ckeditor-build-custom-upload.git"},
+  "files": [
+    "build"
+  ],
   "devDependencies": {
     "@ckeditor/ckeditor5-autoformat": "^19.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^19.0.0",
